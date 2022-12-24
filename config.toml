@@ -1,4 +1,4 @@
-baseURL = "http://www.Diego-Angeles-Valdez.com"
+baseURL = "https://github.com/DiegoAngls/DAV-web-site"
 title = "dangeles"
 theme = "hugo-coder"
 languageCode = "en"
