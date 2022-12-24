@@ -1,4 +1,4 @@
-baseURL = "https://github.io/DiegoAngls/DAV-web-site"
+baseURL = "https://diegoangls.github.io/DAV-web-site/"
 title = "dangeles"
 theme = "hugo-coder"
 languageCode = "en"
